@@ -37,6 +37,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Start point
+
         System.out.println(AppConstants.LINE_SEPARATOR);
         System.out.println("Welcome to " + AppConstants.APP_NAME);
         System.out.println(AppConstants.LINE_SEPARATOR);
